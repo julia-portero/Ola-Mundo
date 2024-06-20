@@ -1,2 +1,4 @@
-# Ola-Mundo
- primeiro repositorio versionado do curso
+# Olá, Mundo
+ Primeiro repositorio versionado do curso
+
+Repositorio criado durante uma aula gravada
